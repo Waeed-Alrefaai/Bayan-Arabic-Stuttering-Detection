@@ -2,6 +2,10 @@
 
 An AI-powered graduation project designed to detect stuttering patterns in Arabic speech using deep learning techniques.
 
+## Project Type
+
+Graduation Project | Artificial Intelligence | Speech Processing | Deep Learning
+
 ## Overview
 
 Bayan analyzes speech recordings and identifies different stuttering events such as:
@@ -94,6 +98,17 @@ The model successfully detected:
 ### Result Screen 2
 ![Result Screen 2](screenshots/Result%20Screen%202.png)
 
+## Future Work
+
+- Expand the Arabic speech dataset with more speakers and dialects.
+- Improve detection accuracy for complex stuttering events.
+- Support real-time speech analysis.
+- Integrate the system with clinical speech therapy workflows.
+
+## Team
+
+This project was developed as part of a graduation project team.
+
 ## Project Status
 
-Completed as a Graduation Project.
+Completed and presented as a Graduation Project in the College of Computer and Information Sciences at Imam Mohammad Ibn Saud Islamic University.
