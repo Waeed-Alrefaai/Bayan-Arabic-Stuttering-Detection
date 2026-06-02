@@ -44,11 +44,11 @@ The user records speech through the mobile application, the audio is processed a
 
 ## My Contribution
 
-- Requirements Analysis
-- System Design
-- Documentation
-- Model Evaluation
-- Presentation Preparation
+- Requirements analysis and system specification
+- System architecture and database design
+- Literature review and research analysis
+- Model evaluation and result interpretation
+- Documentation and presentation preparation
 
 ## Screenshots
 
