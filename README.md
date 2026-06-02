@@ -24,6 +24,27 @@ The system consists of three main components:
 
 The user records speech through the mobile application, the audio is processed and analyzed by the trained model, and the results are returned to the user.
 
+## Dataset
+
+- Arabic Dataset: 533 speech recordings
+- English Dataset: SEP-28K (20,906 samples)
+
+The datasets were used to train and evaluate the stuttering detection model.
+
+## Results
+
+The trained model achieved promising results in detecting multiple stuttering patterns.
+
+- Macro F1 Score: 0.71
+- Weighted F1 Score: 0.71
+
+The model successfully detected:
+- Prolongation
+- Block
+- Sound Repetition
+- Word Repetition
+- Interjection
+
 ## Technologies Used
 
 - Python
