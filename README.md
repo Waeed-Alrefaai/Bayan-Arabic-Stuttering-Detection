@@ -83,7 +83,7 @@ The model successfully detected:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/Home%201Screen.png)
+![Home Screen](screenshots/Home%20Screen.png)
 
 ### Privacy Permission Screen 1
 ![Privacy Permission Screen 1](screenshots/Privacy%20Permission%20Screen%201.png)
@@ -112,7 +112,7 @@ The model successfully detected:
 
 ## Team
 
-This project was developed as part of a graduation project team.
+This project was developed collaboratively as part of a graduation project team at Imam Mohammad Ibn Saud Islamic University.
 
 ## Project Status
 
