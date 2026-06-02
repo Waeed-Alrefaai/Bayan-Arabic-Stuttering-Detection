@@ -18,6 +18,10 @@ Bayan analyzes speech recordings and identifies different stuttering events such
 
 The system aims to support speech therapists by providing automatic and objective speech analysis.
 
+## Project Goal
+
+The goal of Bayan is to provide an intelligent and objective tool for detecting stuttering patterns in Arabic speech, reducing reliance on manual assessment and supporting speech therapists in the evaluation process.
+
 ## Architecture
 
 The system consists of three main components:
@@ -72,13 +76,14 @@ The model successfully detected:
 - Requirements analysis and system specification
 - System architecture and database design
 - Literature review and research analysis
-- Model evaluation and result interpretation
+- Dataset preparation and annotation support
+- Model evaluation and result analysis
 - Documentation and presentation preparation
 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/Home%20Screen.png)
+![Home Screen](screenshots/Home%201Screen.png)
 
 ### Privacy Permission Screen 1
 ![Privacy Permission Screen 1](screenshots/Privacy%20Permission%20Screen%201.png)
